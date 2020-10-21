@@ -1,3 +1,3 @@
 # QueryClassifications
 
-HEROKU DEPLOYED LINK: https://ml-model-query-classifier.herokuapp.com/
+HEROKU DEPLOYED LINK: https://ml-model-classifier-in-browser.herokuapp.com/
